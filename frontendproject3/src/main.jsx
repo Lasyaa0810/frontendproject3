@@ -8,7 +8,7 @@ import Page2 from './Page2.jsx'
 import Page3 from './Page3.jsx'
 
 createRoot(document.getElementById('root')).render(
- <BrowserRouter basename="frontendproject2">
+ <BrowserRouter basename="frontendproject3">
  <Routes>
   <Route path="/" element = {<App/>}></Route>
   <Route path='/Page1' element={<Page1/>}></Route>
