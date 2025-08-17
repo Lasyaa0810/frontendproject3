@@ -10,17 +10,17 @@ html, body {
     height: 100%;
 }
 .header{
-    background: beige;
+    background: brown;
     width: 100%;
     height: 30px;
 }
 .body{
-    background: blue;
+    background: Beige;
     width: 100%;
     height: calc(100% - 60px);
 }
 .footer{
-    background: beige;
+    background: brown;
     width: 100%;
     height: 30px;
 }
